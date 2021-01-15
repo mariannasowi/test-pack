@@ -5,6 +5,6 @@
   "author": "Marianna",
   "license": "MIT",
   "dependencies": {
-    "@mariannasowi/randomid-generator": "^1.0.0"
+    "@mariannasowi/randomid-generator": "^1.0.1"
   }
 }

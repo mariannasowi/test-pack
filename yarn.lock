@@ -6,3 +6,10 @@
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@mariannasowi/randomid-generator/-/randomid-generator-1.0.0.tgz#35b67a8af53ea439896462a383c5dd55295f01a8"
   integrity sha512-QkGd7Ze4ATk3NV0CY2k6EXhXWbM+zuC4JgHF7ZM2E0XtMdyDQSf35zGudKvF1SsqlG1foNUBHeBbTX9LTzQ/eg==
+
+"@mariannasowi/randomid-generator@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@mariannasowi/randomid-generator/-/randomid-generator-1.0.1.tgz#ff1018990f9d79e9e635387bf8d94107d70d072e"
+  integrity sha512-xLmnoVkL5HZlbu5Pe7jJpe/Z7PBS91UC7rkt7GHCeHGyHW8LnnKCjiCQT28apiixFDJ5TVsCadMsvpqUOsOyvA==
+  dependencies:
+    "@mariannasowi/randomid-generator" "^1.0.0"
